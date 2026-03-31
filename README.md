@@ -61,4 +61,7 @@ As a co-author of the seminal paper **"Attention Is All You Need"**, my work lai
 * **Industry Roots:** Engineering roles at Amazon, PubMatic, and Google Research.
 
 ---
-"Building models that don't just predict, but reason and act."
+Contact : niki@essential.ai
+
+
+Old account got hacked. 
