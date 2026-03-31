@@ -64,4 +64,4 @@ As a co-author of the seminal paper **"Attention Is All You Need"**, my work lai
 Contact : niki@essential.ai
 
 
-https://github.com/nikiparmar Old account got hacked. 
+This is my current GitHub account. Previous accounts [Niki Parmar](https://github.com/nikiparmar) are no longer in use.
